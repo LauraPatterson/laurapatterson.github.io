@@ -1,4 +1,3 @@
-
 * {
     font-family: 'Raleway', sans-serif;
     font-size: 1em;
@@ -16,9 +15,9 @@ a:hover {
 
 a.button {
     background-color: black;
-    border-radius: 0.75em;
+    border-radius: 0.5em;
     color: floralwhite;
-    padding: 0.5em;
+    padding: 0.75em;
     text-decoration: none;
 }
 
@@ -37,10 +36,11 @@ body {
 div {
     padding-left: 2em;
 }
+
 footer {
     display: flex;
-    bottom: 0;
     padding-top: 1em;
+    bottom: 0;
     align-items: center;
     justify-content: center;
 }
