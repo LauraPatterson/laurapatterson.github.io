@@ -35,7 +35,7 @@ div.project {
 }
 
 footer {
-  grid-row: auto;
+  display:flex;
   padding-top: 1em;
   align-items: center;
   justify-content: center;
