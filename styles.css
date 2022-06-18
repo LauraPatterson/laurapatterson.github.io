@@ -15,7 +15,6 @@ a:hover {
 }
 
 a.button {
-    display: block;
     background-color: black;
     border-radius: 0.75em;
     color: floralwhite;
